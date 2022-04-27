@@ -1,5 +1,5 @@
-Sonar prediction sysetm 
--  Predicts whether the object is rock or mine 
+-  Diabetes prediction sysetm 
+-  Predicts whether the the person have diabetes or no  
 -  How to use? • download the data set, open it as a file notebook, pick a row without the label (remember the label)
 -              • put the row in the input_data = ('Enter it here') 
 -              • Run the code and have fun!
