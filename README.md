@@ -6,7 +6,7 @@ Sonar prediction sysetm
 -  I followed this playlist: https://www.youtube.com/watch?v=xUE7SjVx9bQ&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=2
 
 
-
+-  Want to know me? right chooise..
 -  Hi, I’m Ahmed Zidane 
 -  BSc in Electronics and Communication engineering(2017-2022)
 -  I’m interested in Machine Learning 
