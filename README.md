@@ -3,7 +3,6 @@
 -  How to use? • download the data set, open it as a file notebook, pick a row without the label (remember the label)
 -              • put the row in the input_data = ('Enter it here') 
 -              • Run the code and have fun!
--  I followed this playlist: https://www.youtube.com/watch?v=xUE7SjVx9bQ&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=2
 
 
 -  Want to know me? right chooise..
